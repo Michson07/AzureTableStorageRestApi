@@ -1,0 +1,8 @@
+D:\Projekty\C#\AzureStorage\StorageAccountData\bin\Debug\netcoreapp3.0\StorageAccountData.deps.json
+D:\Projekty\C#\AzureStorage\StorageAccountData\bin\Debug\netcoreapp3.0\StorageAccountData.dll
+D:\Projekty\C#\AzureStorage\StorageAccountData\obj\Debug\netcoreapp3.0\StorageAccountData.csprojAssemblyReference.cache
+D:\Projekty\C#\AzureStorage\StorageAccountData\obj\Debug\netcoreapp3.0\StorageAccountData.AssemblyInfoInputs.cache
+D:\Projekty\C#\AzureStorage\StorageAccountData\obj\Debug\netcoreapp3.0\StorageAccountData.AssemblyInfo.cs
+D:\Projekty\C#\AzureStorage\StorageAccountData\bin\Debug\netcoreapp3.0\StorageAccountData.pdb
+D:\Projekty\C#\AzureStorage\StorageAccountData\obj\Debug\netcoreapp3.0\StorageAccountData.dll
+D:\Projekty\C#\AzureStorage\StorageAccountData\obj\Debug\netcoreapp3.0\StorageAccountData.pdb
